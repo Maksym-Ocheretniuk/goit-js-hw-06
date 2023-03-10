@@ -31,3 +31,5 @@ function onDestroyBoxes() {
   boxesEl.innerHTML = "";
   inputEl.value = "";
 }
+
+// console.log();
